@@ -11417,16 +11417,7 @@
                   }),
                 ],
               }),
-              ("div",
-              {
-                className: "12345",
-                children:
-                  ("img",
-                  {
-                    src: "/resources/unlock.png",
-                    alt: "",
-                  }),
-              })(0, c.jsxs)("div", {
+              (0, c.jsxs)("div", {
                 className: "",
                 children: [
                   (0, c.jsx)("div", {
