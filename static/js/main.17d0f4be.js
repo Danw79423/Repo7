@@ -11417,18 +11417,15 @@
                   }),
                 ],
               }),
-              //(0, c.jsx)("div", {
-              //  style: {
-              //    paddingTop: 20,
-              //   paddingBottom: 20,
-              // },
-              // children: (0, c.jsx)("img", {
-              //    src: "/resources/unlock.png",
-              //   width: 680,
-              //   height: 300,
-              // }),
-              //}),
               (0, c.jsxs)("div", {
+                className:
+                  "bg-white rounded-3xl overflow-hidden pb-5 my-3 max-w-[900px]",
+                children: o.jsx("img", {
+                  src: "/resources/unlock.png",
+                  alt: "",
+                  className: "w-[1000px]",
+                }),
+              })(0, c.jsxs)("div", {
                 className: "",
                 children: [
                   (0, c.jsx)("div", {
