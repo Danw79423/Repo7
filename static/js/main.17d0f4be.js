@@ -11334,11 +11334,15 @@
               (0, c.jsxs)("div", {
                 className: "",
                 style: {
-                  backgroundColor: "rgb(226, 227, 229)",
+                  backgroundColor: "#ffffff",
                   paddingTop: 20,
                   paddingBottom: 20,
                   paddingLeft: 20,
                   paddingRight: 20,
+                  borderColor: "#000000",
+                  borderWidth: 0.2,
+                  borderRadius: 10,
+                  border: "1px solid #d0d0d0",
                 },
                 children: [
                   (0, c.jsx)("div", {
@@ -11421,11 +11425,13 @@
                 style: {
                   paddingTop: 20,
                   paddingBottom: 20,
+                  borderRadius: 10,
                 },
                 children: (0, c.jsx)("img", {
                   src: "/resources/unlock.png",
                   width: "100%",
                   height: 300,
+                  borderRadius: 10,
                 }),
               }),
               (0, c.jsxs)("div", {
