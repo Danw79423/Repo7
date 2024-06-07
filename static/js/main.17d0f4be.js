@@ -11417,6 +11417,17 @@
                   }),
                 ],
               }),
+              (0, c.jsx)("div", {
+                style: {
+                  paddingTop: 20,
+                  paddingBottom: 20,
+                },
+                children: (0, c.jsx)("img", {
+                  src: "/resources/unlock.png",
+                  width: "100%",
+                  height: 300,
+                }),
+              }),
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
