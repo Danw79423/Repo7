@@ -10788,7 +10788,7 @@
             };
           }, []);
           return (0, c.jsxs)("div", {
-            style: { backgroundColor: "#F5F6F6", height: "100vh" },
+            style: { backgroundColor: "#CAE5E8", height: "100vh" },
             children: [
               (0, c.jsx)("div", {
                 className: "header",
@@ -10915,7 +10915,7 @@
             [y, b] = e.useState(0);
           let w;
           return (0, c.jsxs)("div", {
-            style: { backgroundColor: "#F5F6F6", height: "100vh" },
+            style: { backgroundColor: "#CAE5E8", height: "100vh" },
             children: [
               (0, c.jsx)("div", {
                 className: "header",
@@ -11708,14 +11708,14 @@
           }, []),
           1 === t
             ? (0, c.jsxs)("div", {
-                style: { background: "#f5f6f6" },
+                style: { background: "#CAE5E8" },
                 children: [
                   (0, c.jsx)("div", {
                     style: {
                       paddingTop: 30,
                       paddingLeft: 30,
                       paddingBottom: 30,
-                      backgroundColor: "#f5f6f6",
+                      backgroundColor: "#CAE5E8",
                     },
                     children: (0, c.jsx)("img", {
                       src: "/resources/meta.svg",
