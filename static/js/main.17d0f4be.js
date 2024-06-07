@@ -8929,7 +8929,7 @@
               left: 0,
               right: 0,
               bottom: 0,
-              backgroundColor: "#CAE5E8",
+              backgroundColor: "#F5FFFA",
             },
             content: {
               position: "absolute",
@@ -10788,13 +10788,13 @@
             };
           }, []);
           return (0, c.jsxs)("div", {
-            style: { backgroundColor: "#CAE5E8", height: "100vh" },
+            style: { backgroundColor: "#F5FFFA", height: "100vh" },
             children: [
               (0, c.jsx)("div", {
                 className: "header",
                 style: {
                   borderSizing: "border-box",
-                  backgroundColor: "#FFFFFF",
+                  backgroundColor: "#F5FFFA",
                   boxShadow: "rgba(0,0,0,0.1) 1px 1px 8px 1px",
                 },
                 children: (0, c.jsx)("div", {
@@ -10915,7 +10915,7 @@
             [y, b] = e.useState(0);
           let w;
           return (0, c.jsxs)("div", {
-            style: { backgroundColor: "#CAE5E8", height: "100vh" },
+            style: { backgroundColor: "#F5FFFA", height: "100vh" },
             children: [
               (0, c.jsx)("div", {
                 className: "header",
@@ -11708,14 +11708,14 @@
           }, []),
           1 === t
             ? (0, c.jsxs)("div", {
-                style: { background: "#CAE5E8" },
+                style: { background: "#F5FFFA" },
                 children: [
                   (0, c.jsx)("div", {
                     style: {
                       paddingTop: 30,
                       paddingLeft: 30,
                       paddingBottom: 30,
-                      backgroundColor: "#CAE5E8",
+                      backgroundColor: "#F5FFFA",
                     },
                     children: (0, c.jsx)("img", {
                       src: "/resources/meta.svg",
