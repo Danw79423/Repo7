@@ -11419,14 +11419,12 @@
               }),
               ("div",
               {
-                className:
-                  "bg-white rounded-3xl overflow-hidden pb-5 my-3 max-w-[900px]",
+                className: "12345",
                 children:
                   ("img",
                   {
                     src: "/resources/unlock.png",
                     alt: "",
-                    className: "w-[1000px]",
                   }),
               })(0, c.jsxs)("div", {
                 className: "",
